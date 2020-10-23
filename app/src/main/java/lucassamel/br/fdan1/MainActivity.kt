@@ -6,8 +6,6 @@ import android.util.Log
 
 class MainActivity : AppCompatActivity() {
 
-    private var contador = 0
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
